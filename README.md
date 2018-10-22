@@ -9,3 +9,4 @@ Awesome list of React components with suspense and resources.
 ## Blog Posts / Articles
 
 ## Components
+- [react-async-elements](https://github.com/palmerhq/react-async-elements)
