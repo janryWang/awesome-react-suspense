@@ -1,6 +1,6 @@
-# Awesome React Render Props
+# Awesome React Suspense
 
-Awesome list of React components with render props and resources.
+Awesome list of React components with suspense and resources.
 
 > PR's Welcome!
 
